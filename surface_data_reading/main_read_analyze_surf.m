@@ -1,6 +1,6 @@
 % reading ansys surface data
 clear all
-directory = "D:\TGS380_CFD_transient\TGS380_028";
+directory = "D:\XXXX_CFD_transient\XXXXXXX_028";
 fileIdentifier = "pressure";
 dt = 1.0345E-05; % each iterations
 colNoOfPressure = 4;
